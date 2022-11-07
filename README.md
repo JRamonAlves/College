@@ -1,2 +1,0 @@
-# College
-Learned in College 
